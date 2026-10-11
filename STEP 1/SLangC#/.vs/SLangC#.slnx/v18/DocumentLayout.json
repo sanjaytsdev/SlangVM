@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\New Slang\\SLangC#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF2998B-6C7E-0B16-0BCA-60609C6AB366}|SLangC#.csproj|c:\\users\\user\\desktop\\new slang\\slangc#\\nativevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF2998B-6C7E-0B16-0BCA-60609C6AB366}|SLangC#.csproj|solutionrelative:nativevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF2998B-6C7E-0B16-0BCA-60609C6AB366}|SLangC#.csproj|c:\\users\\user\\desktop\\new slang\\slangc#\\evaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF2998B-6C7E-0B16-0BCA-60609C6AB366}|SLangC#.csproj|solutionrelative:evaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF2998B-6C7E-0B16-0BCA-60609C6AB366}|SLangC#.csproj|c:\\users\\user\\desktop\\new slang\\slangc#\\bytecodeinterpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF2998B-6C7E-0B16-0BCA-60609C6AB366}|SLangC#.csproj|solutionrelative:bytecodeinterpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF2998B-6C7E-0B16-0BCA-60609C6AB366}|SLangC#.csproj|c:\\users\\user\\desktop\\new slang\\slangc#\\bytecodeemitter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF2998B-6C7E-0B16-0BCA-60609C6AB366}|SLangC#.csproj|solutionrelative:bytecodeemitter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF2998B-6C7E-0B16-0BCA-60609C6AB366}|SLangC#.csproj|c:\\users\\user\\desktop\\new slang\\slangc#\\ast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF2998B-6C7E-0B16-0BCA-60609C6AB366}|SLangC#.csproj|solutionrelative:ast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF2998B-6C7E-0B16-0BCA-60609C6AB366}|SLangC#.csproj|c:\\users\\user\\desktop\\new slang\\slangc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF2998B-6C7E-0B16-0BCA-60609C6AB366}|SLangC#.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ByteCodeEmitter.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\New Slang\\SLangC#\\ByteCodeEmitter.cs",
+              "RelativeDocumentMoniker": "ByteCodeEmitter.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\New Slang\\SLangC#\\ByteCodeEmitter.cs",
+              "RelativeToolTip": "ByteCodeEmitter.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T16:30:19.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Evaluator.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\New Slang\\SLangC#\\Evaluator.cs",
+              "RelativeDocumentMoniker": "Evaluator.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\New Slang\\SLangC#\\Evaluator.cs",
+              "RelativeToolTip": "Evaluator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T10:21:45.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BytecodeInterpreter.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\New Slang\\SLangC#\\BytecodeInterpreter.cs",
+              "RelativeDocumentMoniker": "BytecodeInterpreter.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\New Slang\\SLangC#\\BytecodeInterpreter.cs",
+              "RelativeToolTip": "BytecodeInterpreter.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T10:19:17.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AST.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\New Slang\\SLangC#\\AST.cs",
+              "RelativeDocumentMoniker": "AST.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\New Slang\\SLangC#\\AST.cs",
+              "RelativeToolTip": "AST.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T10:16:23.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NativeVm.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\New Slang\\SLangC#\\NativeVm.cs",
+              "RelativeDocumentMoniker": "NativeVm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\New Slang\\SLangC#\\NativeVm.cs",
+              "RelativeToolTip": "NativeVm.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAowDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T09:44:28.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\New Slang\\SLangC#\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\New Slang\\SLangC#\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T09:39:45.003Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

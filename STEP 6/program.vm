@@ -1,0 +1,36 @@
+PUSH_CONST 10
+CALL is_even, 1
+PRINT_LINE
+HALT
+
+FUNCTION is_even, 1, 0
+LOAD_LOCAL 0
+PUSH_CONST 0
+EQ
+JUMP_IF_FALSE even_recursive
+
+PUSH_BOOL true
+RETURN
+
+LABEL even_recursive
+LOAD_LOCAL 0
+PUSH_CONST 1
+SUB
+CALL is_odd, 1
+RETURN
+
+FUNCTION is_odd, 1, 0
+LOAD_LOCAL 0
+PUSH_CONST 0
+EQ
+JUMP_IF_FALSE odd_recursive
+
+PUSH_BOOL false
+RETURN
+
+LABEL odd_recursive
+LOAD_LOCAL 0
+PUSH_CONST 1
+SUB
+CALL is_even, 1
+RETURN
